@@ -12,11 +12,15 @@ Down the module to your desired location
 Import the module into a PowerShell session
 
 # Third
-Once you have the PercentOff parameter set as desired,
+Once you have the PercentOff parameter set as desired
+
 Run "Start-PercentOffTool"
+
 & follow the menu prompts
 
-As an example
-if one inputs a value of 3.5
-then the "To" would display as 3.15
-since the default 10% off from 3.5 is 3.15
+# Example
+If one inputs a value of 3.5
+
+Then the "To" would display as 3.15
+
+Since the default 10% off from 3.5 is 3.15
