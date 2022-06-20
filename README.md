@@ -1,7 +1,7 @@
 # PercentOffTool
 A PowerShell tool to quickly calculate what value is X% off from the input value
 
-The default percentage off is 10%
+The default percentage off is 20% (set in the JSON parameter file)
 
 This setting can be updated by running the Set-PercentOff command
 
