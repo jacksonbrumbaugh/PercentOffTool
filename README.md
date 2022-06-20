@@ -6,7 +6,7 @@ The default percentage off is 10%
 This setting can be updated by running the Set-PercentOff command
 
 # First
-Down the module to your desired location
+Download the module to your desired location
 
 # Second
 Import the module into a PowerShell session
@@ -19,8 +19,8 @@ Run "Start-PercentOffTool"
 & follow the menu prompts
 
 # Example
-If one inputs a value of 3.5
+If one inputs a value of 3.50
 
-Then the "To" would display as 3.15
+Then the "To" would display as 2.8
 
-Since the default 10% off from 3.5 is 3.15
+Since the default 20% off from 3.50 is 2.80
